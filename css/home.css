@@ -1,0 +1,38 @@
+body {
+	background-image: url("../img/broken_noise.png");
+}
+#centerNavBar {
+	width: 800px;
+	margin: auto;
+}
+#grandImage {
+	background-image: url("../img/homePagePhoto4.jpg");
+	background-repeat: no-repeat; 
+	background-size: 100% auto;
+}
+#title{
+	color: white;
+	text-align: center;
+	margin-top: 75px;
+}
+.aboutText {
+	color:white;
+	font-size: 16px;
+}
+.noBullets {
+	list-style-type: none;
+}
+footer{
+	background: #737373;
+}
+.grey {
+	background: #333333;
+}
+.slide {
+    height: 75rem;
+    line-height: 35rem;
+    margin: 0 auto 13px;
+    padding: 4rem 0;
+    text-align: center;
+    width: 100%;
+}
